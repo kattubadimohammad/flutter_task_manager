@@ -21,3 +21,4 @@ To get started with the project, clone the repository and install the dependenci
 git clone https://github.com/kattubadimohammad/flutter_task_manager.git
 cd flutter_task_manager
 flutter pub get
+flutter run
